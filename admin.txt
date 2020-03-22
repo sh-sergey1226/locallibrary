@@ -1,0 +1,4 @@
+# locallibrary
+admin panel
+log: Serg
+pass: 111zxc555ZXC
